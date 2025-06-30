@@ -10,5 +10,5 @@ This is a simple and lightweight Telegram bot that verifies if an email address 
 - Works on any SMTP-supported email provider
 
 ## Setup Instructions
-```pip install python-telegram-bot```
-```pip install python-telegram-bot==20.6```
+> ```pip install python-telegram-bot```
+> ```pip install python-telegram-bot==20.6```
